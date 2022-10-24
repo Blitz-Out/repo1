@@ -1,4 +1,4 @@
-#Team Front-End:
+# Team Front-End:
 
 Myke
 - LayOut Components
@@ -14,7 +14,7 @@ Luis:
 - Crate Login Form
 - Save Cart Items
 
-#Team Back-End:
+# Team Back-End:
 
 MauDev:
 - Connect MONGODB
