@@ -4,10 +4,12 @@ Myke
 - LayOut Components
 - List Products
 - Details
+
 Walo:
 - Handle Add To Cart
 - Cart Page
 - Update Quantity
+
 Luis:
 - Crate Login Form
 - Save Cart Items
@@ -19,6 +21,7 @@ MauDev:
 - Create API
 - Payment Screen
 - PayPal Payment method
+
 Dany:
 - Add User Menu
 - Shipping Screen
